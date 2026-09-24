@@ -14,10 +14,6 @@ Currently, I'm strengthening my **DSA and problem-solving skills** while buildin
 - 🤖 Highly interested in **Machine Learning & Deep Learning**
 - 📚 Currently learning **Data Structures & Algorithms**
 - 📱 Have a basic understanding of **Android Development**
-- 🐍 Working with **Python** for ML/AI
-- 💻 Interested in building practical AI-powered projects
-- 🔬 Exploring areas like **Computer Vision, NLP, and Generative AI**
-- 🚀 Always learning and experimenting with new technologies
 
 ---
 
