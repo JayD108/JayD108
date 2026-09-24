@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mrittunjay Dubey
 
-### 🚀 Computer Science Student | Machine Learning & Deep Learning Enthusiast
+###  Computer Science Student | Machine Learning & Deep Learning Enthusiast
 
 I'm a Computer Science student passionate about **Artificial Intelligence and Machine Learning**, especially **Machine Learning and Deep Learning**.
 
@@ -8,12 +8,12 @@ Currently, I'm strengthening my **DSA and problem-solving skills** while buildin
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 Computer Science Engineering student
-- 🤖 Highly interested in **Machine Learning & Deep Learning**
-- 📚 Currently learning **Data Structures & Algorithms**
-- 📱 Have a basic understanding of **Android Development**
+-  Computer Science Engineering student
+-  Highly interested in **Machine Learning & Deep Learning**
+-  Currently learning **Data Structures & Algorithms**
+-  Have a basic understanding of **Android Development**
 
 ---
 
