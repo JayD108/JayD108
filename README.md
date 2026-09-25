@@ -4,7 +4,7 @@
 
 ### Computer Science Student | Machine Learning & Deep Learning Enthusiast
 
-I'm a Computer Science student passionate about **Artificial Intelligence and Machine Learning**, especially **Machine Learning and Deep Learning**.
+I'm a Computer Science student passionate about **Artificial Intelligence and Machine Learning**.
 
 Currently, I'm strengthening my **DSA and problem-solving skills** while building projects and exploring the world of AI.
 
