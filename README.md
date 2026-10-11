@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mrittunjay Dubey
 
-batman_bad_code.webp
+![Batman](./batman_bad_code.webp)
 
 ### Computer Science Student | Machine Learning & Deep Learning Enthusiast
 
