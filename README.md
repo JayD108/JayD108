@@ -1,6 +1,8 @@
 # Hi 👋, I'm Mrittunjay Dubey
 
-![Batman](./batman_bad_code.webp)
+<p align="center">
+  <img src="./batman_bad_code.webp" alt="Batman coding" width="800">
+</p>
 
 ### Computer Science Student | Machine Learning & Deep Learning Enthusiast
 
