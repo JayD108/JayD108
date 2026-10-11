@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mrittunjay Dubey
 
-![Justice League Batman](Justice%20League%20Batman%20GIF%20by%20DC.gif)
+!batman_bad_code.webp
 
 ### Computer Science Student | Machine Learning & Deep Learning Enthusiast
 
