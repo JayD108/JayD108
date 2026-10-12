@@ -6,15 +6,11 @@
 
 <p align="center">
   <i>Computer Science student · coding after dark</i>
+  <br />
+  I like turning data into intelligence.
 </p>
 
 <p align="center">🦇</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,git,androidstudio&theme=dark" alt="Python, JavaScript, React, Git, Android Studio" />
-</p>
-
-<br />
 
 <p align="center">
   <sub><b>“It's not who I am underneath, but what I build that defines me.”</b></sub>
