@@ -1,20 +1,25 @@
-# Hi 👋, I'm Mrittunjay Dubey
-
 <p align="center">
-  <img src="./batman_bad_code.webp" alt="Batman coding" width="800">
+  <img src="./batman_bad_code.webp" alt="Batman coding" width="700" />
 </p>
 
-### Computer Science Student | Machine Learning & Deep Learning Enthusiast
+<h1 align="center">Mrittunjay Dubey</h1>
 
-**It's not who I am underneath, but what I build that defines me**
+<p align="center">
+  <i>Computer Science student · coding after dark</i>
+</p>
 
-Currently, I'm strengthening my **DSA and problem-solving skills** while building projects and exploring the world of AI.
+<p align="center">🦇</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,git,androidstudio&theme=dark" alt="Python, JavaScript, React, Git, Android Studio" />
+</p>
 
-## About Me
+<br />
 
-- Computer Science Engineering student
-- Highly interested in **Machine Learning & Deep Learning**
-- Currently learning **Data Structures & Algorithms**
-- Have a basic understanding of **Android Development**
+<p align="center">
+  <sub><b>“It's not who I am underneath, but what I build that defines me.”</b></sub>
+</p>
+
+<p align="center">
+  <img src="./Justice%20League%20Batman%20GIF%20by%20DC.gif" width="120" alt="Batman" />
+</p>
