@@ -18,6 +18,4 @@
   <sub><b>“It's not who I am underneath, but what I build that defines me.”</b></sub>
 </p>
 
-<p align="center">
-  <img src="./Justice%20League%20Batman%20GIF%20by%20DC.gif" width="120" alt="Batman" />
-</p>
+
